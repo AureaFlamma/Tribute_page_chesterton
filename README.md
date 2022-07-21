@@ -1,24 +1,7 @@
-# README - Learning Journey step 7
+# README
 
-## 7.2 - Your Tribute Page
+<br>
 
-You will now be using git and vscode to:
+🎉 This is the very first webpage I coded as part of the extremely fun admission process for [School Of Code]("https://www.schoolofcode.com/"). 🎉
 
-  * _clone_ your repository to your local machine (use the HTTPS link)
-
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
-
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
-
-<details>
-  <summary>Super Secret Hint</summary>
-  All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
- 
- Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-</details>
-
-## 7.3 - Deploying your site using github Pages
-
-Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Make sure that the deployed branch is `main` in settings.
+It is entirely static and  non-resposnive 😬Yet, building this project had taught me the very basics of web design/UI- role of whitespace, visual hierarchy and unity- in addition to letting me practice creating basic grid layouts with cells of varying sizes (viz. the quote section)
